@@ -1,5 +1,5 @@
 # DataProducts
-Coursera Data Products 
+
 This is a project for Coursera class - Developing Data Products.  In the project we are required to submit a Shiny app with the following requirements:
 
 1.	Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
