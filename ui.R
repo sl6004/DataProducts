@@ -36,7 +36,8 @@ shinyUI(
          h4('To use this application, please enter these three required variables on the left panel, and click the "Submit" botton when you are done.  The App may take a few seconds to calculate after data submitted'),
          h4('Please be patient and navigate to "Results" tab (on the top) to view the corresponding prediction results.'),
          p(strong(em("For more information, please visit:",a("http://rpubs.com/sl6004/shinydoc",href="http://rpubs.com/sl6004/shinydoc"))))     
-        ),
+        
+		),
         
         tabPanel("Results", 
                  
